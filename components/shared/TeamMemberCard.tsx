@@ -12,12 +12,13 @@ interface TeamMemberCardProps {
 export function TeamMemberCard({ name, role, bio, credential, image }: TeamMemberCardProps) {
   return (
     <div className="bg-white rounded-2xl border border-navy-100 overflow-hidden shadow-sm hover:shadow-md transition-shadow">
-      <div className="relative h-48 bg-bg-tertiary">
+      <div className="relative aspect-square bg-bg-tertiary">
         <Image
           src={image}
           alt={name}
           fill
           className="object-cover"
+          style={{ objectPosition: "center 30%" }}
           sizes="(max-width: 768px) 100vw, 33vw"
         />
       </div>

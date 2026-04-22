@@ -204,18 +204,18 @@ export const FAQS = [
 
 export const TEAM = [
   {
-    name: "Dr. Adebayo Okafor",
+    name: "Dr. Chidozie Pascal Anumiri",
     role: "Chief Medical Officer",
     bio: "15 years emergency medicine, ATLS certified.",
     credential: "MBBS, FWACP",
-    image: "/images/team/placeholder.jpg",
+    image: "/images/team/Dr Chidozie Pascal.jpeg",
   },
   {
-    name: "Paramedic Chisom Eze",
+    name: "Akinyemi Abdulwaheed Folorunsho",
     role: "Lead Paramedic (ALS)",
     bio: "Advanced Life Support specialist, 10 years field experience.",
     credential: "ALS Certified",
-    image: "/images/team/placeholder.jpg",
+    image: "/images/team/Akinyemi Abdulwaheed Folorunsho.png",
   },
   {
     name: "Ngozi Adeyemi",
@@ -225,11 +225,11 @@ export const TEAM = [
     image: "/images/team/placeholder.jpg",
   },
   {
-    name: "Musa Ibrahim",
+    name: "Idorenyin Bassey Ebienang",
     role: "Fleet Manager",
     bio: "Manages 15-vehicle fleet, maintenance, and readiness.",
     credential: "Certified Fleet Mgr",
-    image: "/images/team/placeholder.jpg",
+    image: "/images/team/Idorenyin Bassey Ebienang.png",
   },
   {
     name: "Amaka Obi",
