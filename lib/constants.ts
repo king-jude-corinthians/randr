@@ -232,11 +232,11 @@ export const TEAM = [
     image: "/images/team/Idorenyin Bassey Ebienang.png",
   },
   {
-    name: "Amaka Obi",
+    name: "Mary Joseph",
     role: "Senior Dispatcher",
     bio: "Coordinates real-time dispatch across all FCT zones.",
     credential: "EMD Certified",
-    image: "/images/team/placeholder.jpg",
+    image: "/images/team/Mary Joseph.png",
   },
   {
     name: "Dr. Folake Bello",
